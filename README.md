@@ -301,12 +301,183 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />          
   
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/b660b284-3928-42ca-bcee-96bdb94c5ea0" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+35.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />          
   
   
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/430bb161-b1af-43c9-9ee9-46fc05c6509f" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+36.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />            
   
   
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/1e5b08cc-6674-46ff-9409-717e9058803f" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+37.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />              
   
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/d1ec2273-a7b3-4526-95d3-03993b004ea6"/>
+</p>
+<p>
+38.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />                
   
-  
-  
-  
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/c7a8405f-83d1-4ea8-af9f-20acff2de0e0"/>
+</p>
+<p>
+39.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />                
+
+
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/74ef99fa-70a9-48bf-b4e0-0e8cc53239e1"/>
+</p>
+<p>
+40.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />                
+
+
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/ea19b450-4ad0-4db5-8737-2e1036d708d5"/>
+</p>
+<p>
+41.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />                
+
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/3c5a921b-6db0-4734-92ce-dbc2ecf802ce"/>
+</p>
+<p>
+42.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />                
+
+
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/000c5f43-acfc-4a8b-8b39-2ce14131bc47"/>
+</p>
+<p>
+43.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />                
+
+
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/61f282ed-8c90-487b-be53-e81a5a890fee
+https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/e69c6c6e-9122-4d63-a33a-af75698042a3)
+"/>
+</p>
+<p>
+44.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />                
+
+
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/0e4056ce-659e-4a17-baa9-92f3ca9ba28b"/>
+</p>
+<p>
+45.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />                
+
+
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/fa0ad93f-ab09-436e-bd56-7a06eba8d7e4"/>
+</p>
+<p>
+46.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />                
+
+
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/ae6eb559-30c9-40f4-b12a-7b17b082bb8b"/>
+</p>
+<p>
+47.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />                
+
+
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/64a72413-50ed-4f49-af9c-7228e6daf6a3"/>
+</p>
+<p>
+48.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />                
+
+
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/a3231ec9-dd90-45b4-a030-2c50c5fddada" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+49.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />              
+
+
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/360e1a0c-baac-4dfc-8c6c-0cb030d2ceb2" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+50.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />              
+
+
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/584c3a7c-3644-4f81-947b-ddb49bbe85ff" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+51.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />              
+
+
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/0cf0ff62-a789-44e7-82ab-fec99824889b" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+37.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />              
+
+
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/d2c25227-e7a6-4f7e-8ae6-3afd26c16c2b" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+37.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />              
+
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/0ea1c554-6e4b-4448-b457-ac017c6a41d5" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+37.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />              
+
+
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+37.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
