@@ -81,14 +81,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 
-<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/b79ac42a-bbb2-42e0-8544-3e1e85271ab6" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/d266cc7b-d624-441c-ad61-509cc5e88fc2" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 7.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
-<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/57f6de75-8d66-441d-a907-5c81b29e6dcd" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/774b678b-8668-4b4a-a232-3ca8b8aa05fc" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 8.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -96,7 +96,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 
-<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/efb5d03a-4948-41dd-8f24-c1ed72b5b31c" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/e5382ffa-861e-4283-9c77-6a7678a28ec6" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 9.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
