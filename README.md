@@ -29,30 +29,46 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Item 5
 
 <h2>Installation Steps</h2>
+1.) First go to https://portal.azure.com/ to create a resource group and virtual machine.
+For the vurtual machine you will need to use Windows 10 Pro, version 22H2 and for the size you will need at least 2vcpus and 16 gbs of memory.
+After creating the virtual machine you connect to the VM by using the IP address using the remote desktop app.
+</p>
+<br />
 
 <p>
+  
+<p>
+
+  
   <img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/52c26df6-a890-4068-9177-3cf6b5946b7a" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
  <img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/4798867e-b47e-42ae-b5e0-17eaa74b626e" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 
 </p>
 
+
+
+
 <p>
-1.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+
+ 
 
 
   <img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/7f11d9d3-9fa6-44e6-92a0-563dc37aa441" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-2.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+
+  2.)After pasting the IP address in remote desktop log in with the user name and password that you used when you created your VM.  </p>
 <br />
 
 <p>
-<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/dd081a73-13a6-4de0-b590-ad259e89403d" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  
+  <img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/dd081a73-13a6-4de0-b590-ad259e89403d" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-3.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+3.) Once logged in the VM go to start menu, click run and type in control panel.  
 </p>
 <br />
 
@@ -60,7 +76,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/22f16633-0ca6-4cf8-b824-c12d9d0a0340" height=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-4.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+4.) From control panel click on programs. 
 </p>
 <br />
 
@@ -68,7 +84,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/bd5bac3a-28da-454e-aca1-4045a2b98637" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-5.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+5.) In programs you will click on Window features on or off.
 </p>
 <br />
 
@@ -76,7 +92,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/4def1848-cc74-4879-824e-7ea73503052f" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-6.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+6.)You will Install/Enable in Windows with CGI and Common HTTP Features.
+ 
+-World Wide Web Services->Application Development Features->
+  
+ - [X]CGI
+  
+ - [X]Common HTTP Features (make sure all features are selected.)
 </p>
 <br />
 
@@ -84,22 +106,17 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/d266cc7b-d624-441c-ad61-509cc5e88fc2" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-7.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
 
 <img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/774b678b-8668-4b4a-a232-3ca8b8aa05fc" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-8.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+7.)To make sure ISS is installed you can open a web brower and type in 127.0.0.1 and the page should look like this. 
 </p>
 <br />
 
-
-<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/e5382ffa-861e-4283-9c77-6a7678a28ec6" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-9.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
@@ -107,23 +124,26 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/5d16c692-1953-4a8f-9171-7d03a7f83e49" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-10.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+8.)From the Installation Files,download and install PHP Mananger for IIS (PHPManagerForIIS_V1/5.0.msi) To install go through the wizard install and complete the install. 
+ 
+  
+9.)Go back to intallation Files, download Rewrite Module(rewrite_en-US.msi) right click and install.
 </p>
 <br />
 
 
-<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/5d7b8c3e-8dd6-4f66-82ae-32caf3a5348f" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/e70e4e41-ccd6-4e5a-8318-4b7211cef643" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-11.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+10.)Create a C folder.
 </p>
 <br />
 
 
-<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/bd5bac3a-28da-454e-aca1-4045a2b98637" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="(https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/e1607569-2347-4ef9-bdb6-766106ae5564)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-12.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+10.)Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
