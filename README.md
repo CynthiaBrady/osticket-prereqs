@@ -73,7 +73,7 @@ After creating the virtual machine you connect to the VM by using the IP address
 <br />
 
 <p>
-<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/22f16633-0ca6-4cf8-b824-c12d9d0a0340" height=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/2085ba05-1b14-40eb-bd22-a4fa9bea5e55" height=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 4.) From control panel click on programs. 
@@ -126,24 +126,16 @@ After creating the virtual machine you connect to the VM by using the IP address
 <p>
 8.)From the Installation Files,download and install PHP Mananger for IIS (PHPManagerForIIS_V1/5.0.msi) To install go through the wizard install and complete the install. 
  
-  
 9.)Go back to intallation Files, download Rewrite Module(rewrite_en-US.msi) right click and install.
-</p>
-<br />
 
-
-<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/e70e4e41-ccd6-4e5a-8318-4b7211cef643" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 10.)Create a C folder.
-</p>
-<br />
 
 
-<img src="(https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/e1607569-2347-4ef9-bdb6-766106ae5564)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/0d6b2b1a-5f25-4880-a927-1aa5af3c130a" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-10.)Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+11.)Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
