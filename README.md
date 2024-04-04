@@ -126,48 +126,41 @@ After creating the virtual machine you connect to the VM by using the IP address
 <p>
 8.)From the Installation Files,download and install PHP Mananger for IIS (PHPManagerForIIS_V1/5.0.msi) To install go through the wizard install and complete the install. 
  
-9.)Go back to intallation Files, download Rewrite Module(rewrite_en-US.msi) right click and install.
+9.)From the Intallation Files, download Rewrite Module(rewrite_en-US.msi) right click and install.
 
-10.)Create a C folder.
+10.)Create a folder in the C Drive named PHP
+
+11.)From the Installation Files,download and PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-X86.zip) and unzip the contents into C:\PHP
+
+!! ATTENTION!! if this appears,close to "keep" the file:
 
 
-
-<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/0d6b2b1a-5f25-4880-a927-1aa5af3c130a" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/ff46864c-9eeb-4247-a41c-9033115f3ef1" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-11.)Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+11.)Once downloaded then you right click on the file and click extract all into folder PHP folder on the C drive.
 </p>
 <br />
 
-
-<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/ca2f4a17-9e42-4f02-8391-3367bc8f499a" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-13.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
-
-
-<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/f6dfef83-77e8-41d1-a796-ade52735db64" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-14.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
 
 <img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/426a411e-4ea8-469b-aff4-688a02e4fee6" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-15.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+12.From the installation files download and intall VC_redist.x86.exe. Right click and go through the wizard.
 </p>
 <br />
 
-
+13.From the intallation files download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
+  
+   Run the setup wizard: Typical Setup->Launch Configuration Wizard ( after install) ->Standard Configuration->
+   
 <img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/63b46af3-160a-460e-bb5d-cd8dd06bc9b8" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-16.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+  
 </p>
 <br />
 
@@ -175,23 +168,24 @@ After creating the virtual machine you connect to the VM by using the IP address
 <img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/c2517379-def7-4f4c-8d90-a4316d513aa6" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-17.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
 
 
 <img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/91b702d7-81fc-4446-a3ab-813c248cfa79" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-18.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+
 </p>
 <br />
 
-
+Make a new root password: Password1
+</p>
+<p>
 <img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/613026cf-b242-465d-ad85-9ba9850a343b" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-19.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+19.
 </p>
 <br />
 
