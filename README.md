@@ -138,7 +138,7 @@ After creating the virtual machine you connect to the VM by using the IP address
 <img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/ff46864c-9eeb-4247-a41c-9033115f3ef1" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-11.)Once downloaded then you right click on the file and click extract all into folder PHP folder on the C drive.
+12.)Once downloaded then you right click on the file and click extract all into folder PHP folder on the C drive.
 </p>
 <br />
 
@@ -148,11 +148,11 @@ After creating the virtual machine you connect to the VM by using the IP address
 <img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/426a411e-4ea8-469b-aff4-688a02e4fee6" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-12.From the installation files download and intall VC_redist.x86.exe. Right click and go through the wizard.
+13.From the installation files download and intall VC_redist.x86.exe. Right click and go through the wizard.
 </p>
 <br />
 
-13.From the intallation files download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
+14.From the intallation files download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
   
    Run the setup wizard: Typical Setup->Launch Configuration Wizard ( after install) ->Standard Configuration->
    
@@ -173,9 +173,6 @@ After creating the virtual machine you connect to the VM by using the IP address
 <br />
 
 
-<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/91b702d7-81fc-4446-a3ab-813c248cfa79" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
-
 </p>
 <br />
 
@@ -185,7 +182,7 @@ Make a new root password: Password1
 <img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/613026cf-b242-465d-ad85-9ba9850a343b" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-19.
+Execute the process to the next page.
 </p>
 <br />
 
@@ -193,7 +190,7 @@ Make a new root password: Password1
 <img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/36968d80-da5f-4be5-9134-21a415ffce7e" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-20.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+15. After all files are installed go to search bar and type IIS and right click IIS to run as administrator. The progarm page should look this. 
 </p>
 <br />
 
@@ -201,7 +198,7 @@ Make a new root password: Password1
 <img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/152a884c-eca5-4cac-be13-cc642d91d05f" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-21.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+16. To register PHP double click on PHP Manager.
 </p>
 <br />
 
@@ -209,15 +206,15 @@ Make a new root password: Password1
 <img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/6b45fa51-dec9-4875-b98f-99c232e74eb7" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-22.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+17.Click on Register new PHP version. 
 </p>
 <br />
 
 
-<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/6e5b4bf2-5ffe-464f-8041-af4691effcd5" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/93d541f5-ea4a-45f9-b108-846c446987dc" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-23.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+18. Go to C Drive -> PHP -> click on PHP-cgi file. 
 </p>
 <br />
 
@@ -225,7 +222,7 @@ Make a new root password: Password1
 <img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/51acac5d-3ecf-4efb-9028-f02b6f4fb943" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-24.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
 
@@ -233,46 +230,34 @@ Make a new root password: Password1
 <img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/78bda78f-2c6c-418d-a2d4-055557cccdb8k" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-25.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+19.) Restart ISS server
 </p>
 <br />
   
   
-<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/1f6aaea0-34e6-4b75-840f-b96ac2160c5b" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/b90b01db-1fc5-4203-b47c-f85b47030f48" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-26.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+20.Download and Install osTicket v1.15.8- from installation Files.
+  
+  -Exract and copy the "upload" folder into the c:\inetpub\wwwroot
+ 
+  -withen c:\inetpub\root, Rename "upload"to "osTicket"
+
+  Reload IIS again.
 </p>
 <br />  
   
-  
-<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/a7265bcd-3b31-4c8a-bb95-bc775b913a11" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-27.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />    
-  
-  
-<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/ce266f61-708a-4e29-91f4-5f81cbe722ac" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-28.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />      
-  
-  
-<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/fd9feb1d-390a-489c-91bb-a8e784ee75f3" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-29.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+21.On IIS go to sites -> Default -> osTicket -On the right,click "Browser *:80"
 </p>
 <br />      
     
-<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/03f9bf60-5698-423f-8ebf-430f0d4cf693" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/364ea0a2-3392-4f72-97b5-7ba23f85a66c" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-30.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+22. You should see a page like this and that means osTicket is working. 
+
+  Some extensions are not enabled,
 </p>
 <br />      
     
@@ -280,164 +265,184 @@ Make a new root password: Password1
 <img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/2b2b3ef5-07e6-4ba3-a8e0-a665c92edb52" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-31.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+23. To enable the extenstions- Go back to IIS,sites->Default->osTicket-Double click PHP manager- Click "Enable or disable an extension"
+
+   
 </p>
 <br />      
         
 <img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/b6b902b8-a1a0-4b24-a446-458386543729" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-32.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+
 <br />      
           
   
-<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/a14321ab-d81e-48bd-91e4-264e47211b69k" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/b044645a-681d-40f8-85d5-ffe1c73f932c" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-33.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+24. Enable all three extensions:
+ 
+  -Enable: php-imap.dll
+  
+  -Enable: php_intl.dll
+ 
+  -Enable: php_opcache.dll
+
+  Refresh the osTicket site in your browse,observe the changes
 </p>
 <br />        
   
   
-<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/6d76da83-d3de-4cf7-96bd-6e0de88df1ff" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/402cf2ee-8afd-4836-be36-635e71670b86" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-34.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />          
   
 <img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/b660b284-3928-42ca-bcee-96bdb94c5ea0" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-35.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+25. After extensions are enabled in ISS we will go to rename one of the files in osTicket folder. 
+  
+  Open up C;\inetpub\wwwroot\osTicket\osticket\include\ost-config.php and rename the ost-sampleconfig.php to ost-config.php
 </p>
 <br />          
   
   
 <img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/430bb161-b1af-43c9-9ee9-46fc05c6509f" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-36.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p
 </p>
 <br />            
   
-  
-<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/1e5b08cc-6674-46ff-9409-717e9058803f" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/1e5b08cc-6674-46ff-9409-717e9058803f" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-37.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+26. Now we are going to assign permissions right click, the file and go to properties.
+  
+  Then click on security,click on advance. 
+  
 </p>
 <br />              
   
-<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/d1ec2273-a7b3-4526-95d3-03993b004ea6"/>
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/46f65f8b-b73a-48ac-823b-b9f33df03b1a)"/>
 </p>
 <p>
-38.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+27. Click on disable inheritance. 
 </p>
 <br />                
   
-<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/c7a8405f-83d1-4ea8-af9f-20acff2de0e0"/>
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/006d4462-4dcf-43b5-bd42-73128f10607e"/>
 </p>
 <p>
-39.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+28.Remove all inherited permissions from this object.
 </p>
 <br />                
 
 
-<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/74ef99fa-70a9-48bf-b4e0-0e8cc53239e1"/>
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/11df3a86-2688-4698-907f-f1747aeb2389"/>
 </p>
 <p>
-40.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+29. Click add to add permissions. 
 </p>
 <br />                
 
 
-<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/ea19b450-4ad0-4db5-8737-2e1036d708d5"/>
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/d914a294-d4ad-41a7-8d9c-9b4b3d7ccca3"/>
 </p>
 <p>
-41.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+30. Select a principal and type in "Everyone" in the box. 
 </p>
 <br />                
 
-<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/3c5a921b-6db0-4734-92ce-dbc2ecf802ce"/>
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/3ee9cea6-78bf-4d41-bb1f-5e4f6144dd63"/>
 </p>
 <p>
-42.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />                
-
-
-<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/000c5f43-acfc-4a8b-8b39-2ce14131bc47"/>
-</p>
-<p>
-43.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+31.Click on Full Control so all the boxes are checked.
 </p>
 <br />                
 
 
-<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/61f282ed-8c90-487b-be53-e81a5a890fee
-https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/e69c6c6e-9122-4d63-a33a-af75698042a3)
-"/>
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/b3875262-2657-46b2-98d4-307cc46f9a06"/>
 </p>
 <p>
-44.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+32.Click and apply.
 </p>
 <br />                
 
 
-<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/0e4056ce-659e-4a17-baa9-92f3ca9ba28b"/>
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/a47720d3-7ea5-4a35-a92c-71a817e3aeef"/>
 </p>
 <p>
-45.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+33.Now go over to the osTicket setup page and (click continue). Fill out the Systems settings and Admin User. Don't forget your chosen password.
+
+  - Name HelpDesk
+
+- Default email (receives email from customers)
+
+34. To set up the database setting at the bottom of the page we need to download and install HeidiSQL from the installation files. 
+
+
+
 </p>
 <br />                
 
 
-<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/fa0ad93f-ab09-436e-bd56-7a06eba8d7e4"/>
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/ee2cae1b-a7df-4961-af88-7006111fc587"/>
 </p>
 <p>
-46.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+35.Once the program is open we will create a new connection to the database. 
 </p>
 <br />                
 
 
-<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/ae6eb559-30c9-40f4-b12a-7b17b082bb8b"/>
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/2bb124bf-ce31-4a30-820d-9101ffa59845"/>
 </p>
 <p>
-47.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+36. For the username use root and for the password use Password1.
 </p>
 <br />                
 
 
-<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/64a72413-50ed-4f49-af9c-7228e6daf6a3"/>
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/56fb426f-ec1f-41a0-ba61-cdf941571816"/>
 </p>
 <p>
-48.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+37.Connected to the session and now we can go back to the finish setting up Database setting. In the Database Settings type in root for the username and Password1 for the password.
+  
+  Now we are going to create a new database in HiediSQL.
+
+  Right click on "Unnamed" select "create new" then select "database'. 
+
+  
 </p>
 <br />                
+
+
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/f0b1c240-39b6-47e1-a4a7-acab53d4f6c1"/>
+</p>
+<p>
+
+</p>
+<br />                
+
+ Name the new database osTicket 
 
 
 <img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/a3231ec9-dd90-45b4-a030-2c50c5fddada" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-49.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+ Go back to osTicket browser and type in osTicket in the MySQL Database box. 
+ 
+  <img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/a30cae90-8b72-49e4-bba7-56a396237f5b" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  
 </p>
 <br />              
 
-
-<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/360e1a0c-baac-4dfc-8c6c-0cb030d2ceb2" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-50.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />              
-
-
-<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/584c3a7c-3644-4f81-947b-ddb49bbe85ff" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-51.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+38. You should be able to click intall now and should intall osTicket. 
 </p>
 <br />              
 
@@ -445,7 +450,10 @@ https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/e69c6c6e-9122-
 <img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/0cf0ff62-a789-44e7-82ab-fec99824889b" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-37.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+42. The last step is to clean up. We are going to delete the setup folder only. 
+  Go to C:\inetpub\wwwroot\osTicket\setup and only delete setup folder. 
+ 
+  From there go to the include folder to ost-config.php to set the permissions back to "Read" only. 
 </p>
 <br />              
 
@@ -453,14 +461,16 @@ https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/e69c6c6e-9122-
 <img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/d2c25227-e7a6-4f7e-8ae6-3afd26c16c2b" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-37.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />              
 
-<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/0ea1c554-6e4b-4448-b457-ac017c6a41d5" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/b51bb9a8-6e39-4a93-9667-89be0d816267" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/ee577375-b067-4063-9f00-0aa53caaf52c" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-37.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+43. After the permissons are set then we can test the osTicket by logining in.
 </p>
 <br />              
 
@@ -468,7 +478,7 @@ https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/e69c6c6e-9122-
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-37.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+44. You have now installed and setup osTicket!
 </p>
 <br />              
 
