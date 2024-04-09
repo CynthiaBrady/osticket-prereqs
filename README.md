@@ -489,14 +489,26 @@ Execute the process to the next page.
 
 
 
-<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/46b3a8b4-d8dc-4af0-91e7-66894f9e31aa" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/cac0594f-3c97-4e0f-b48d-712695afd944" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 
 
 
 
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/86479fad-3a9d-4c1e-9234-bf5c408b932d" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
+<img src="<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/86479fad-3a9d-4c1e-9234-bf5c408b932d" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/cbfc4373-bfb5-4b30-bf18-02f9569ce2b3" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/cdbe8db7-94f2-4efb-b1dc-0e9bff6c0c3b" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/db7a096a-f0fa-4e66-8cef-0eeb9cbbeb5f" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
 
