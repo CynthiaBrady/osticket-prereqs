@@ -6,9 +6,6 @@
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -22,16 +19,20 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Azure Virtual Machine
+- Internet Information Services (IIS)
+- PHP Manager
+- Rewrite Module
+- VC Redist
+- MySQL
+- Heidi SQL
+- osTicket v1.15.8
+- Link to downloads:
 
 <h2>Installation Steps</h2>
 1.) First go to https://portal.azure.com/ to create a resource group and virtual machine.
 For the vurtual machine you will need to use Windows 10 Pro, version 22H2 and for the size you will need at least 2vcpus and 16 gbs of memory.
-After creating the virtual machine you connect to the VM by using the IP address using the remote desktop app.
+After creating the virtual machine you will connect to the VM by using the same IP address as the vm was setup to connect with remote desktop app.
 </p>
 <br />
 
@@ -475,7 +476,7 @@ Execute the process to the next page.
 <br />              
 
 
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/46b3a8b4-d8dc-4af0-91e7-66894f9e31aa" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 44. You have now installed and setup osTicket!
@@ -483,11 +484,13 @@ Execute the process to the next page.
 <br />              
 
 
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/64a3a309-0584-401c-ac75-db64e9149c41" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
 
 
-
-
+<img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/46b3a8b4-d8dc-4af0-91e7-66894f9e31aa" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
 
 
