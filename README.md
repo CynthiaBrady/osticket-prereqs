@@ -127,8 +127,9 @@ Ensure the virtual machine meets the specifications of Windows 10 Pro,version 22
 </p>
 <p>
 8. Download PHP Mananger for IIS from the Installation Files (PHPManagerForIIS_V1/5.0.msi). Follow the wizard to install and complete the installation. 
- 
-9. Download the Rewrite Module from the installation Files (rewrite_en-US.msi). Right-click to install.
+  
+  
+ 9. Download the Rewrite Module from the installation Files (rewrite_en-US.msi). Right-click to install.
 
 10.Create a folder named PHP on the C Drive. 
 
@@ -233,7 +234,7 @@ Execute the process to the next page.
 <img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/78bda78f-2c6c-418d-a2d4-055557cccdb8k" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-19.) Restart the IIS server.
+19. Restart the IIS server.
 </p>
 <br />
   
@@ -243,9 +244,9 @@ Execute the process to the next page.
 <p>
 20.Download and install osTicket v1.15.8- from installation files.
   
-  -Exract the contents of the"upload" folder and copy them into the C:\inetpub\wwwroot.
+  - Exract the contents of the"upload" folder and copy them into the C:\inetpub\wwwroot.
  
-  -Withen C:\inetpub\root, rename the "upload" folder to "osTicket".
+  - Withen C:\inetpub\root, rename the "upload" folder to "osTicket".
 
   Reload IIS once more.
 </p>
@@ -286,11 +287,11 @@ Execute the process to the next page.
 <p>
 24. Enable the following three extensions:
  
-  -Enable: php-imap.dll
+  - Enable: php-imap.dll
   
-  -Enable: php_intl.dll
+  - Enable: php_intl.dll
  
-  -Enable: php_opcache.dll
+  - Enable: php_opcache.dll
 
   After enabling these extensions, refresh the osTicket site in your browse and observe the changes.
 </p>
@@ -307,7 +308,7 @@ Execute the process to the next page.
 <img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/b660b284-3928-42ca-bcee-96bdb94c5ea0" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-25. After enabling extensions in ISS, proceed to rename a file in osTicket folder. 
+25. After enabling extensions in IIS, proceed to rename a file in osTicket folder. 
   
   Navigate to C:\inetpub\wwwroot\osTicket\osticket\include\ and rename the ost-sampleconfig.php to ost-config.php
 </p>
@@ -323,7 +324,7 @@ Execute the process to the next page.
   <img src="https://github.com/CynthiaBrady/osticket-prereqs/assets/160746865/1e5b08cc-6674-46ff-9409-717e9058803f" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-26. Now. let's assign permissions by right clicking the file and selecting Properties.
+26. Now, let's assign permissions by right clicking the file and selecting Properties.
   
   Next, click on Security, then select Advanced. 
   
